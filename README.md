@@ -1,6 +1,6 @@
-# Tomatoes Digital Twin
+# Tiago Tomato Harvest
 
-A ROS-based system for tomato detection, 3D visualization, and robot manipulation using the TIAGo robot.
+A ROS-based system for tomato detection and harvesting, implementing 3D visualization and robot manipulation using the TIAGo robot.
 
 ## Table of Contents
 
